@@ -28,7 +28,7 @@
   "dependencies": {
     "bitcoinjs-lib": "^1.2.0",
     "helloblock-js": "^0.2.5",
-    "ip": "^0.3.2",
+    "ip": "^2.0.1",
     "level-party": "^1.0.1",
     "native-dns": "^0.7.0",
     "raw-op-return": "git+https://github.com/quartzjer/raw-op-return.git",
